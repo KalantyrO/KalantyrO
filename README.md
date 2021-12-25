@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KalantyrO
 - 👀 I’m interested in study Ruby
-- 🌱 I’m only start ti learning
+- 🌱 I’m only start to learn
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
